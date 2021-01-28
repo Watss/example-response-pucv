@@ -1,0 +1,85 @@
+{
+    "data": {
+        "type" : "curso",
+        "id" : "** aca puede ir una cadena o numero **",
+        "attributes" : {
+            "nombre_asignatura" : "Electromagnetismo",
+            "codigo_curso" : "EIE267-02",
+            "aula_virtual" : null,
+            "creditos" : 4,
+            "estado" : "inscrito"
+        },
+        "relationships" : {
+            "horario" : {
+                "data" : [
+                    {
+                        "type" : "sesion",
+                        "id" : "** aca puede ir una cadena o numero **",
+                        "attributes" : {
+                            "codigo_curso" : "EIE275-3",
+                            "nombre_asignatura" : "Tecnologías digitales (ADPD)",
+                            "sala" : "RA-1-1",
+                            "profesor" : "David Contreras",
+                            "hora_inicio" : "15:00",
+                            "hora_termino" : "16:30",
+                            "actividad" : "Cátedra",
+                            "dia" : "Lunes"
+                        }
+                    },
+                    {
+                        "type" : "sesion",
+                        "id" : "** aca puede ir una cadena o numero **",
+                        "attributes" : {
+                            "codigo_curso" : "EIE275-3",
+                            "nombre_asignatura" : "Tecnologías digitales (ADPD)",
+                            "sala" : "RA-1-1",
+                            "profesor" : "David Contreras",
+                            "hora_inicio" : "15:00",
+                            "hora_termino" : "16:30",
+                            "actividad" : "Ayudantia",
+                            "dia" : "Martes"
+                        }
+                    }
+                    {
+                        "type" : "sesion",
+                        "id" : "** aca puede ir una cadena o numero **",
+                        "attributes" : {
+                            "codigo_curso" : "EIE275-3",
+                            "nombre_asignatura" : "Tecnologías digitales (ADPD)",
+                            "sala" : "RA-1-1",
+                            "profesor" : "David Contreras",
+                            "hora_inicio" : "15:00",
+                            "hora_termino" : "16:30",
+                            "actividad" : "Práctica",
+                            "dia" : "Martes"
+                        }
+                    },
+                    {
+                        "type" : "sesion",
+                        "id" : "** aca puede ir una cadena o numero **",
+                        "attributes" : {
+                            "codigo_curso" : "EIE275-3",
+                            "nombre_asignatura" : "Tecnologías digitales (ADPD)",
+                            "sala" : "RA-1-1",
+                            "profesor" : "David Contreras",
+                            "hora_inicio" : "15:00",
+                            "hora_termino" : "16:30",
+                            "actividad" : "Práctica",
+                            "dia" : "Martes"
+                        }
+                    }
+                ]
+            },
+            "notas" : {
+                "data" :  {
+                    "type" : "notas",
+                    "attributes":{
+                        "nota_presentacion" : "6.1",
+                        "nota_examen" : "6.1",
+                        "nota_final"  : "6.1"
+                    }
+                }
+            }
+        }
+    }
+}

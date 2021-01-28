@@ -1,0 +1,48 @@
+{
+    "data" : [
+        {
+            "type" : "contacto",
+            "id" : "** aca puede ir una cadena o numero **",
+            "attributes" : {
+                "nombre" : "NOMBRE COMPLETO DEL ENCARGADO",
+                "telefono" : "++56322273673",
+                "cargo" : "DIRECTOR",
+                "mail" : "gonzalo.farias",
+                "imagen" : "https://api.pucv.cl/imagenes/contactos/1.jpg"
+            }
+        },
+        {
+            "type" : "contacto",
+            "id" : "** aca puede ir una cadena o numero **",
+            "attributes" : {
+                "nombre" : "NOMBRE COMPLETO DEL ENCARGADO",
+                "telefono" : "++56322273673",
+                "cargo" : "DIRECTOR",
+                "mail" : "gonzalo.farias",
+                "imagen" : "https://api.pucv.cl/imagenes/contactos/1.jpg"
+            }
+        },
+        {
+            "type" : "contacto",
+            "id" : "** aca puede ir una cadena o numero **",
+            "attributes" : {
+                "nombre" : "NOMBRE COMPLETO DEL ENCARGADO",
+                "telefono" : "++56322273673",
+                "cargo" : "DIRECTOR",
+                "mail" : "gonzalo.farias",
+                "imagen" : "https://api.pucv.cl/imagenes/contactos/1.jpg"
+            }
+        },        
+        {
+            "type" : "contacto",
+            "id" : "** aca puede ir una cadena o numero **",
+            "attributes" : {
+                "nombre" : "NOMBRE COMPLETO DEL ENCARGADO",
+                "telefono" : "++56322273673",
+                "cargo" : "DIRECTOR",
+                "mail" : "gonzalo.farias",
+                "imagen" : "https://api.pucv.cl/imagenes/contactos/1.jpg"
+            }
+        }   
+    ]
+}

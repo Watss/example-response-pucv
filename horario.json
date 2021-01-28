@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "type" : "sesion",
+            "id" : "ete32-2020-01",
+            "attributes" : {
+                "codigo_curso" : "EIE275-3",
+                "nombre_asignatura" : "Tecnologías digitales (ADPD)",
+                "sala" : "RA-1-1",
+                "profesor" : "David Contreras",
+                "hora_inicio" : "15:00",
+                "hora_termino" : "16:30",
+                "actividad" : "Cátedra",
+                "dia" : "Lunes"
+            }
+        },
+        {
+            "type" : "sesion",
+            "id" : "** aca puede ir una cadena o numero **",
+            "attributes" : {
+                "codigo_curso" : "EIE275-3",
+                "nombre_asignatura" : "Tecnologías digitales (ADPD)",
+                "sala" : "RA-1-1",
+                "profesor" : "David Contreras",
+                "hora_inicio" : "15:00",
+                "hora_termino" : "16:30",
+                "actividad" : "Cátedra",
+                "dia" : "Martes"
+            }
+        },
+        {
+            "type" : "sesion",
+            "id" : "** aca puede ir una cadena o numero **",
+            "attributes" : {
+                "codigo_curso" : "EIE275-3",
+                "nombre_asignatura" : "Tecnologías digitales (ADPD)",
+                "sala" : "RA-1-1",
+                "profesor" : "David Contreras",
+                "hora_inicio" : "15:00",
+                "hora_termino" : "16:30",
+                "actividad" : "Cátedra",
+                "dia" : "Miercoles"
+            }
+        },
+        {
+            "type" : "sesion",
+            "id" : "** aca puede ir una cadena o numero **",
+            "attributes" : {
+                "codigo_curso" : "EIE275-3",
+                "nombre_asignatura" : "Tecnologías digitales (ADPD)",
+                "sala" : "RA-1-1",
+                "profesor" : "David Contreras",
+                "hora_inicio" : "15:00",
+                "hora_termino" : "16:30",
+                "actividad" : "Cátedra",
+                "dia" : "Miercoles"
+            }
+        }
+    ]
+}

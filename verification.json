@@ -1,0 +1,24 @@
+{
+    "data" : {
+        "success" : false,
+        "message" : "Alumno no autorizado"
+    },
+
+    "data" : {
+        "success" : true,
+        "message" : "Alumno Autorizado",
+        "data" : {
+            "type" : "perfil",
+            "id" : "1",
+            "attributes" : {
+                "nombres" : "alumno 1",
+                "apellidos" : "alumno apellidos",
+                "sexo" : "M",
+                "carrera" : "ING INFORMATICA",
+                "cod_carrera" : "ING-001",
+                "rut" : "19072378-K",
+                "imagen" : "https://api.pucv.cl/imagenes/alumnos/1.jpg"
+            }
+        }
+    }
+}

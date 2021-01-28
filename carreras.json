@@ -1,0 +1,31 @@
+
+api.pucv.cl/carreras  
+
+{
+    "data" : [
+        {
+            "type" : "carrera",
+            "id" : "1",
+            "attributes" : {
+                "nombre" : "CARRERA 1",
+                "codigo_carrera" : "2"
+            }
+        },
+        {
+            "type" : "carrera",
+            "id" : "2",
+            "attributes" : {
+                "nombre" : "CARRERA 1",
+                "codigo_carrera" : "2"
+            }
+        },
+        {
+            "type" : "carrera",
+            "id" : "3",
+            "attributes" : {
+                "nombre" : "CARRERA 1",
+                "codigo_carrera" : "4"
+            }
+        }
+    ]
+}

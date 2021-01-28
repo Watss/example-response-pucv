@@ -1,0 +1,41 @@
+{
+    
+    "data" : [
+        {
+            "type" : "curso",
+            "id" : "** aca puede ir una cadena o numero **",
+            "attributes" : {
+                "nombre_asignatura" : "Electromagnetismo",
+                "codigo_curso" : "EIE267-02",
+                "aula_virtual" : null
+            }
+        },
+        {
+            "type" : "curso",
+            "id" : "** aca puede ir una cadena o numero **",
+            "attributes" : {
+                "nombre_asignatura" : "LABORATORIO DE MEDICIONES",
+                "codigo_curso" : "EIE267-02",
+                "aula_virtual" : null
+            }
+        },
+        {
+            "type" : "curso",
+            "id" : "** aca puede ir una cadena o numero **",
+            "attributes" : {
+                "nombre_asignatura" : "Señales y Sistemas",
+                "codigo_curso" : "EIE267-02",
+                "aula_virtual" : null
+            }
+        },
+        {
+            "type" : "curso",
+            "id" : "** aca puede ir una cadena o numero **",
+            "attributes" : {
+                "nombre_asignatura" : "Teoria de Circuitos",
+                "codigo_curso" : "EIE267-02",
+                "aula_virtual" : null
+            }
+        }
+    ]
+}
