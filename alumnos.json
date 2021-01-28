@@ -1,0 +1,40 @@
+{
+    api.pucv.cl/alumnos?filter[carrera]=5  <->  api.pucv.cl/alumnos?filter[curso]=curso2
+
+    "data" : [
+        {
+            "type" : "alumno",
+            "id" : "1",
+            "attributes" : {
+                "rut" : "19072378k"
+            }
+        },
+        {
+            "type" : "alumno",
+            "id" : "2",
+            "attributes" : {
+                "rut" : "19072378k"
+            }
+        },
+        {
+            "type" : "alumno",
+            "id" : "3",
+            "attributes" : {
+                "rut" : "19072378k"
+            }
+        },
+        {
+            "type" : "alumno",
+            "id" : "4",
+            "attributes" : {
+                "rut" : "19072378k"
+            }
+        },{
+            "type" : "alumno",
+            "id" : "5",
+            "attributes" : {
+                "rut" : "19072378k"
+            }
+        }
+    ]
+}
