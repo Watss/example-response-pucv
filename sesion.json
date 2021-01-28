@@ -6,13 +6,22 @@
             "codigo_curso" : "EIE275-3",
             "nombre_asignatura" : "Tecnologías digitales (ADPD)",
             "sala" : "RA-1-1",
-            "profesor" : "David Contreras",
+            "profesores" : [
+                {
+                    "nombre" : "Diego Gonzalez",
+                    "email" : "d.gonzalez@pucv.cl"
+                },
+                {
+                    "nombre" : "Diego Gonzalez",
+                    "email" : "d.gonzalez@pucv.cl"
+                }
+            ],
+            "clave" : "7-8",
             "hora_inicio" : "15:00",                
             "hora_termino" : "16:30",
             "actividad" : "Cátedra",
             "dia" : "Martes",
             "estado_asignatura_alumno" : "Cursando",
-            "mail" : "ccontreras@pucv.cl",
             "periodo" : "2021",
             "aula_virtual" : null
         }

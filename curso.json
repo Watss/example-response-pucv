@@ -19,9 +19,19 @@
                             "codigo_curso" : "EIE275-3",
                             "nombre_asignatura" : "Tecnologías digitales (ADPD)",
                             "sala" : "RA-1-1",
-                            "profesor" : "David Contreras",
+                            "profesores" : [
+                                {
+                                    "nombre" : "Diego Gonzalez",
+                                    "email" : "d.gonzalez@pucv.cl"
+                                },
+                                {
+                                    "nombre" : "Diego Gonzalez",
+                                    "email" : "d.gonzalez@pucv.cl"
+                                }
+                            ],
                             "hora_inicio" : "15:00",
                             "hora_termino" : "16:30",
+                            "clave" : "7-8",
                             "actividad" : "Cátedra",
                             "dia" : "Lunes"
                         }
@@ -33,13 +43,23 @@
                             "codigo_curso" : "EIE275-3",
                             "nombre_asignatura" : "Tecnologías digitales (ADPD)",
                             "sala" : "RA-1-1",
-                            "profesor" : "David Contreras",
+                            "profesores" : [
+                                {
+                                    "nombre" : "Diego Gonzalez",
+                                    "email" : "d.gonzalez@pucv.cl"
+                                },
+                                {
+                                    "nombre" : "Diego Gonzalez",
+                                    "email" : "d.gonzalez@pucv.cl"
+                                }
+                            ],
                             "hora_inicio" : "15:00",
                             "hora_termino" : "16:30",
+                            "clave" : "7-8",
                             "actividad" : "Ayudantia",
                             "dia" : "Martes"
                         }
-                    }
+                    },
                     {
                         "type" : "sesion",
                         "id" : "** aca puede ir una cadena o numero **",
@@ -47,9 +67,19 @@
                             "codigo_curso" : "EIE275-3",
                             "nombre_asignatura" : "Tecnologías digitales (ADPD)",
                             "sala" : "RA-1-1",
-                            "profesor" : "David Contreras",
+                            "profesores" : [
+                                {
+                                    "nombre" : "Diego Gonzalez",
+                                    "email" : "d.gonzalez@pucv.cl"
+                                },
+                                {
+                                    "nombre" : "Diego Gonzalez",
+                                    "email" : "d.gonzalez@pucv.cl"
+                                }
+                            ],
                             "hora_inicio" : "15:00",
                             "hora_termino" : "16:30",
+                            "clave" : "7-8",
                             "actividad" : "Práctica",
                             "dia" : "Martes"
                         }
@@ -61,9 +91,19 @@
                             "codigo_curso" : "EIE275-3",
                             "nombre_asignatura" : "Tecnologías digitales (ADPD)",
                             "sala" : "RA-1-1",
-                            "profesor" : "David Contreras",
+                            "profesores" : [
+                                {
+                                    "nombre" : "Diego Gonzalez",
+                                    "email" : "d.gonzalez@pucv.cl"
+                                },
+                                {
+                                    "nombre" : "Diego Gonzalez",
+                                    "email" : "d.gonzalez@pucv.cl"
+                                }
+                            ],
                             "hora_inicio" : "15:00",
                             "hora_termino" : "16:30",
+                            "clave" : "7-8",
                             "actividad" : "Práctica",
                             "dia" : "Martes"
                         }
